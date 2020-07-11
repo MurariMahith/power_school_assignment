@@ -58,3 +58,5 @@ Method 2:
 
 if running python server to render index.html is very slow, please open the index.html in normal method and try suggestions (not recemmended)
 this way we dont render our page on request with server but we simply open index.html file in front_end directory'
+
+Test Outputs
